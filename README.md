@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viprajay Dhali</h1>
 <h3 align="center">A passionate about innovation from Uttarakhand (India)</h3>
-<img align = "right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966">
+<img align = "right" alt="Coding" width ="400" src="https://github.com/viprajay/viprajay/blob/main/gifphoto.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viprajay&label=Profile%20views&color=0e75b6&style=flat" alt="viprajay" /> </p>
 
 - 🔭 I’m currently working on **React**
