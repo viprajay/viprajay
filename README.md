@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Viprajay Dhali</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Viprajay+Dhali!;" />
+</h1>
 <h3 align="center">A passionate about innovation from Uttarakhand India</h3>
 <img align = "right" alt="Coding" width ="400" src="https://github.com/viprajay/viprajay/blob/main/gifphoto.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viprajay&label=Profile%20views&color=0e75b6&style=flat" alt="viprajay" /> </p>
